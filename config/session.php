@@ -214,6 +214,7 @@ return [
 
     'partitioned' => env('SESSION_PARTITIONED_COOKIE', false),
 
+<<<<<<< HEAD
     /*
     |--------------------------------------------------------------------------
     | Session Serialization
@@ -230,4 +231,6 @@ return [
 
     'serialization' => 'json',
 
+=======
+>>>>>>> d6cf073b0dba4e16648d5338f3aac2e60336f8ad
 ];

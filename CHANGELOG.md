@@ -1,5 +1,6 @@
 # Release Notes
 
+<<<<<<< HEAD
 ## [Unreleased](https://github.com/laravel/laravel/compare/v13.7.0...13.x)
 
 ## [v13.7.0](https://github.com/laravel/laravel/compare/v13.6.0...v13.7.0) - 2026-05-14
@@ -50,6 +51,9 @@
 ## [v12.12.2](https://github.com/laravel/laravel/compare/v12.12.1...v12.12.2) - 2026-03-14
 
 * [12.x] Add `APP_NAME` fallback in Slack log channel username by [@hamedelasma](https://github.com/hamedelasma) in https://github.com/laravel/laravel/pull/6762
+=======
+## [Unreleased](https://github.com/laravel/laravel/compare/v12.12.1...12.x)
+>>>>>>> d6cf073b0dba4e16648d5338f3aac2e60336f8ad
 
 ## [v12.12.1](https://github.com/laravel/laravel/compare/v12.12.0...v12.12.1) - 2026-03-10
 
